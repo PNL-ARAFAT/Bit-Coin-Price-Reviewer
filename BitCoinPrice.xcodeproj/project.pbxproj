@@ -45,6 +45,7 @@
 			isa = PBXGroup;
 			children = (
 				ADA8AC072329367100626376 /* BitCoinPrice */,
+				351AA04E2A8E10BF0080F207 /* readme.txt */,
 				ADA8AC062329367100626376 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -68,7 +69,6 @@
 				ADA8AC112329367300626376 /* Assets.xcassets */,
 				ADA8AC132329367300626376 /* LaunchScreen.storyboard */,
 				ADA8AC162329367300626376 /* Info.plist */,
-				351AA04E2A8E10BF0080F207 /* readme.txt */,
 			);
 			path = BitCoinPrice;
 			sourceTree = "<group>";
